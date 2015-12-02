@@ -1,0 +1,1 @@
+This directory contains the initial experimentation done around pageviews deltas - namely, picking out the top 1,000 articles from each major project and seeing if we can spot differences between Mobile and Desktop.
